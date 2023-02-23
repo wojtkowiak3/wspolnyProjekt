@@ -1,0 +1,15 @@
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\bin\Debug\net6.0\projekt.exe
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\bin\Debug\net6.0\projekt.deps.json
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\bin\Debug\net6.0\projekt.runtimeconfig.json
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\bin\Debug\net6.0\projekt.dll
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\bin\Debug\net6.0\projekt.pdb
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\projekt.csproj.AssemblyReference.cache
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\projekt.AssemblyInfoInputs.cache
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\projekt.AssemblyInfo.cs
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\projekt.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\projekt.dll
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\refint\projekt.dll
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\projekt.pdb
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\projekt.genruntimeconfig.cache
+C:\xampp\htdocs\2023_02_23\wspolnyProjekt\projekt\obj\Debug\net6.0\ref\projekt.dll

@@ -8,26 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\student\\.nuget\\packages\\": {}
+    "C:\\Users\\alwoj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student\\Desktop\\projektowanie_oprogramowania\\2023.02.23\\wspolnyProjekt\\projekt\\projekt.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\2023_02_23\\wspolnyProjekt\\projekt\\projekt.csproj",
       "projectName": "projekt",
-      "projectPath": "C:\\Users\\student\\Desktop\\projektowanie_oprogramowania\\2023.02.23\\wspolnyProjekt\\projekt\\projekt.csproj",
-      "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student\\Desktop\\projektowanie_oprogramowania\\2023.02.23\\wspolnyProjekt\\projekt\\obj\\",
+      "projectPath": "C:\\xampp\\htdocs\\2023_02_23\\wspolnyProjekt\\projekt\\projekt.csproj",
+      "packagesPath": "C:\\Users\\alwoj\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\2023_02_23\\wspolnyProjekt\\projekt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alwoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -50,11 +51,17 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
