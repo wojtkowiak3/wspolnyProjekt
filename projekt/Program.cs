@@ -36,6 +36,9 @@
 
             Console.WriteLine("1 - styczeń, 2 - luty itd.");
             Console.WriteLine("Podaj numer miesiąca");
+
+            int chosenMonth = int.Parse(Console.ReadLine());
+            Console.WriteLine($"Miesiąc: {monthsOfYear[chosenMonth]}");
         }
     }
 }
